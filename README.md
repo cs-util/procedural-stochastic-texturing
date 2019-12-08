@@ -1,3 +1,8 @@
+Unity implementation of the "Histogram-preserving Blending for Randomized Texture Tiling" paper
+Live Demo (js) of the same paper: https://benedikt-bitterli.me/histogram-tiling/
+Unity blog post: https://blogs.unity3d.com/2019/02/14/procedural-stochastic-texturing-in-unity/
+  
+
 ![alt text](https://i.imgur.com/fpAQs15.png)
 
 # Procedural Stochastic Texturing
